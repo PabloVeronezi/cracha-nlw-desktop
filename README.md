@@ -14,8 +14,3 @@ ou qualquer propriedade necessária para não ter uma quebra de layout nas demai
 
 - Aplicarei media queries para ter êxito nas questões de responsividade.
 
-
-## Ajustes necessário
-
-- Resolver problema com a margin do .break.
-- formatar imagens, links
